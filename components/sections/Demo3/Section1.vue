@@ -6,9 +6,9 @@
                 <div class="col-md-6">
                     <div class="hero-3-txt color--white wow fadeInRight">
                         <!-- Title -->
-                        <h2 class="s-60 w-700">Increase your website traffic with Martex</h2>
+                        <h2 class="s-45 w-700">Swift Reservations, Lower Costs: ShipGate Leads the Way!</h2>
                         <!-- Text -->
-                        <p class="p-lg">Mauris donec turpis suscipit sapien ociis sagittis sapien tempor a volute ligula and aliquet tortor</p>
+                        <p class="p-lg">ShipGate revolutionizes logistics with lightning-fast booking, securing unbeatable rates. Simplify your shipping process and save time and money, all in one powerful platform</p>
                         <!-- HERO DIGITS -->
                         <div class="hero-digits">
                             <!-- DIGIT BLOCK #1 -->
