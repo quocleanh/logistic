@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Section ID -->
-                        <span class="section-id">Endless Possibilities</span>
+                        <span class="section-id">SẢn phẩm</span>
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Digital marketing that drives results for your business</h2>
+                        <h2 class="s-50 w-700">Cung cấp giải pháp và công cụ trong việc vận hành doanh nghiệp</h2>
                         <!-- Text -->
                         <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
                     </div>
@@ -36,7 +36,7 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Market Research</h6>
+                                <h6 class="s-22 w-700">Tạo booking</h6>
                                 <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
                             </div>
                         </div>
@@ -61,7 +61,7 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">User Experience</h6>
+                                <h6 class="s-22 w-700">Tạo bảng giá</h6>
                                 <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Digital Marketing</h6>
+                                <h6 class="s-22 w-700">Quản lý vận đơn</h6>
                                 <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
                             </div>
                         </div>
@@ -111,7 +111,7 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Web Development</h6>
+                                <h6 class="s-22 w-700">Quản lý COD/Công nợ</h6>
                                 <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
                             </div>
                         </div>
@@ -136,7 +136,7 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Brand Design Identity</h6>
+                                <h6 class="s-22 w-700">API vận chuyển</h6>
                                 <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
                             </div>
                         </div>
@@ -161,7 +161,7 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">SEO & SMM Services</h6>
+                                <h6 class="s-22 w-700">Hệ thống bưu cục</h6>
                                 <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
                             </div>
                         </div>
